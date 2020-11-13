@@ -1,3 +1,7 @@
+## mTCP compiled for Ubuntu 16.04 (5.9.0-050900-generic) and DPDK 19.11.2
+
+Note: this repo contains all the prerequired submodules. Document is available [here](https://github.com/JeremyGuo/mtcp_modified_for_xxx/tree/master/doc).
+
 [![Build Status](https://travis-ci.org/eunyoung14/mtcp.svg?branch=master)](https://travis-ci.org/eunyoung14/mtcp)
 [![Build Status](https://scan.coverity.com/projects/11896/badge.svg)](https://scan.coverity.com/projects/eunyoung14-mtcp)
 

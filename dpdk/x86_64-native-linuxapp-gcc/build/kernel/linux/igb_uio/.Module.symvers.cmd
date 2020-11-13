@@ -1,0 +1,1 @@
+cmd_/home/chenxiang/f-stack/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/Module.symvers := sed 's/ko$$/o/' /home/chenxiang/f-stack/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/modules.order | scripts/mod/modpost  -a   -o /home/chenxiang/f-stack/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/chenxiang/f-stack/dpdk/build/build/kernel/linux/igb_uio/igb_uio.mod := { echo  /home/chenxiang/f-stack/dpdk/build/build/kernel/linux/igb_uio/igb_uio.o; echo; } > /home/chenxiang/f-stack/dpdk/build/build/kernel/linux/igb_uio/igb_uio.mod

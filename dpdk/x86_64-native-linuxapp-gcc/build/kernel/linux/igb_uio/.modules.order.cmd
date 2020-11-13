@@ -1,0 +1,1 @@
+cmd_/home/chenxiang/f-stack/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/modules.order := {   echo /home/chenxiang/f-stack/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/igb_uio.ko; :; } | awk '!x[$$0]++' - > /home/chenxiang/f-stack/dpdk/x86_64-native-linuxapp-gcc/build/kernel/linux/igb_uio/modules.order

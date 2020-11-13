@@ -1,0 +1,1 @@
+cmd_/home/chenxiang/mtcp/dpdk-iface-kmod/dpdk_iface.ko := ld -r -m elf_x86_64  --build-id  -T ./scripts/module-common.lds -o /home/chenxiang/mtcp/dpdk-iface-kmod/dpdk_iface.ko /home/chenxiang/mtcp/dpdk-iface-kmod/dpdk_iface.o /home/chenxiang/mtcp/dpdk-iface-kmod/dpdk_iface.mod.o;  true

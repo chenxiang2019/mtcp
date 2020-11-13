@@ -1,0 +1,1 @@
+cmd_/home/chenxiang/mtcp/dpdk-iface-kmod/Module.symvers := sed 's/ko$$/o/' /home/chenxiang/mtcp/dpdk-iface-kmod/modules.order | scripts/mod/modpost  -a   -o /home/chenxiang/mtcp/dpdk-iface-kmod/Module.symvers -e -i Module.symvers   -T -

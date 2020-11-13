@@ -1,0 +1,1 @@
+cmd_/home/chenxiang/f-stack/dpdk/build/build/kernel/linux/igb_uio/igb_uio.ko := ld -r -m elf_x86_64  --build-id  -T ./scripts/module-common.lds -o /home/chenxiang/f-stack/dpdk/build/build/kernel/linux/igb_uio/igb_uio.ko /home/chenxiang/f-stack/dpdk/build/build/kernel/linux/igb_uio/igb_uio.o /home/chenxiang/f-stack/dpdk/build/build/kernel/linux/igb_uio/igb_uio.mod.o;  true

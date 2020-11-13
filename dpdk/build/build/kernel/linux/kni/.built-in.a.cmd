@@ -1,0 +1,1 @@
+cmd_/home/chenxiang/f-stack/dpdk/build/build/kernel/linux/kni/built-in.a := rm -f /home/chenxiang/f-stack/dpdk/build/build/kernel/linux/kni/built-in.a; ar cDPrST /home/chenxiang/f-stack/dpdk/build/build/kernel/linux/kni/built-in.a 
